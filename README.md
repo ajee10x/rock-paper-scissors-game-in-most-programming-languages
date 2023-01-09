@@ -10,7 +10,12 @@ Rock Paper Scissors Game in most Programming Languages
 | 5 | Java | 44 lines | 37 sloc | 1.89 KB |
 | 6 | Kotlin | 42 lines | 34 sloc | 1.59 KB |
 | 7 | PHP | 38 lines | 30 sloc | 1.22 KB |
-| 8 | Soon | Soon | Soon | Soon |
+| 9 | C# | 63 lines | 56 sloc | 1.85 |
+| 10 | C | 50 lines | 41 sloc | 1.45 KB |
+| 11 | C++ | 50 lines | 42 sloc | 1.58 KB |
+| 12 | Swift | 41 lines | 35 sloc | 1.56 KB |
+| 13 | R | 24 lines | 21 sloc | 1.2 KB |
+| 14 | Soon | Soon | Soon | Soon |
 
 
 
