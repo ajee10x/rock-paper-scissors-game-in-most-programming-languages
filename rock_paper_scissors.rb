@@ -32,3 +32,4 @@ end
 
 # To play the game, save the code to a file (e.g. rock_paper_scissors.rb) and run it with the ruby command in your terminal
 # ruby rock_paper_scissors.rb
+# Rock Paper Scissors Game using Ruby
