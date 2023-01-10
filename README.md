@@ -17,7 +17,8 @@ Rock Paper Scissors Game in most Programming Languages
 | 13 | R | 24 lines | 21 sloc | 1.2 KB |
 | 14 | Lua | 52 lines | 46 sloc | 1.8 KB |
 | 15 | React | 75 lines | 68 sloc | 2 KB |
-| 16 | Soon | Soon | Soon | Soon |
+| 16 | Haskell | 43 lines | 37 sloc | 1.82 KB |
+| 17 | Soon | Soon | Soon | Soon |
 
 
 
