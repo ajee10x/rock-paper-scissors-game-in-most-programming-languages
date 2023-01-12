@@ -22,5 +22,4 @@ Rock Paper Scissors Game in most Programming Languages
 | 18 | OCaml | 41 lines | 34 sloc | 1.44 KB |
 | 19 | Soon | Soon | Soon | Soon |
 
-
-
+*I enjoy the element of pushing yourself, learning something new, whether it's a dance step, a scene, an emotion.~Kenny Wormald*
