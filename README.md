@@ -21,6 +21,7 @@ Rock Paper Scissors Game in most Programming Languages
 | 17 | Prolog | 33 lines | 25 sloc | 593 Bytes |
 | 18 | OCaml | 41 lines | 34 sloc | 1.44 KB |
 | 19 | MATLAB | 61 lines | 54 sloc | 2.16 KB |
-| 20 | Soon | Soon | Soon | Soon |
+| 20 | Rust | 54 lines | 46 sloc | 1.9 KB |
+| 21 | Soon | Soon | Soon | Soon |
 
 *I enjoy the element of pushing yourself, learning something new, whether it's a dance step, a scene, an emotion.~Kenny Wormald*
