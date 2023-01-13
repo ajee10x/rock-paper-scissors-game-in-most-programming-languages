@@ -49,4 +49,4 @@ end
 -- play the game
 play_game()
 
--- This implementation has three functions: get_computer_move generates a random move for the computer (rock, paper, or scissors), get_winner determines the winner of the game based on the player's and computer's moves, and play_game is the main function that handles the gameplay. The player's move is read from the standard input, the computer's move is generated using the get_computer_move function, and the winner is determined using the get_winner function. Finally, the result of the game is printed to the console.
+-- This implementation has three functions: get_computer_move generates a random move for the computer (rock, paper, or scissors), get_winner determines the winner of the game based on the player's and computer's moves, and play_game is the main function that handles the gameplay. The player's move is read from the standard input, the computer's move is generated using the get_computer_move function, and the winner is determined using the get_winner function. Finally, the result of the game is printed to the console..
